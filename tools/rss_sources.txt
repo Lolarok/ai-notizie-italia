@@ -1,0 +1,37 @@
+# FONTI RSS - AI NOTIZIE ITALIA
+# Aggiungi questi URL in Feedzy RSS Feeds > Feed Sources
+
+# === FONTI ITALIANE (Priorità ALTA) ===
+https://ainews.it/feed/
+https://ai4business.it/feed/
+https://iaol.it/feed/
+https://www.wired.it/feed/tag/intelligenza-artificiale/
+https://www.html.it/rss/ai.xml
+https://www.corrierecomunicazioni.it/feed/tag/intelligenza-artificiale/
+
+# === FONTI INTERNAZIONALI TOP (Priorità ALTA) ===
+https://techcrunch.com/tag/artificial-intelligence/feed/
+https://feeds.feedburner.com/venturebeat/SZYF
+https://www.artificialintelligence-news.com/feed/
+
+# === BLOG UFFICIALI AI LABS (Priorità ALTA) ===
+https://openai.com/blog/rss/
+https://www.deepmind.com/blog/rss.xml
+https://huggingface.co/blog/feed.xml
+https://ai.googleblog.com/feeds/posts/default
+https://www.anthropic.com/rss/news-and-research.xml
+https://mistral.ai/news/rss.xml
+
+# === NEWSLETTER & DIGEST ===
+https://newsletter.theaidigest.net/feed
+https://www.thebatch.com/feed
+https://aiweekly.co/issues.rss
+
+# === PAPERS ACCADEMICI ===
+https://arxiv.org/rss/cs.AI
+https://arxiv.org/rss/cs.LG
+https://arxiv.org/rss/cs.CL
+
+# === NORMATIVE & GDPR ===
+https://edpb.europa.eu/news/news_it_rss_en
+https://www.garanteprivacy.it/rss/comunicati
